@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://ashwinbenke.vercel.app/assets/logo.png" alt="Ashwin Benke Logo" width="200"/>
+  <img src="https://github.com/Ashwinssj/AwesomeProject/blob/main/assets/cyberarmy-desktop.jpg?raw=true" alt="Cyber Army Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Ashwin Benke</h1>
