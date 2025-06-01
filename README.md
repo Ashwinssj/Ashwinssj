@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Ashwinssj/Ashwinssj/blob/main/assets/cyberarmy-Desktop.jpg" width="800"/>
+  <img src="https://github.com/Ashwinssj/Ashwinssj/blob/main/assets/cyberarmy-Desktop.jpg?raw=true" alt="Cyber Army Banner" width="800"" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Ashwin Benke</h1>
