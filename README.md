@@ -24,24 +24,32 @@
 ## 🛠️ Skills & Tools
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) 
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)  
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
+*(Used for building context-aware LLM pipelines and agentic workflows)*
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface)  
+*(For fine-tuning and deploying NLP & vision models using Transformers)*
+
+**Certifications:**  
+📜 **Microsoft Certified: Azure AI Engineer Associate**  
+*(MCP | Skilled in designing, implementing, and monitoring AI solutions on Microsoft Azure)*
 
 ---
 
