@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 I’m Ashwin Benke, a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I'm currently working at **Combat Solutions AI ||BharatKa AI Pvt. Ltd.**, building real-world AI chatbots and multi-agent systems.
+🎓 I’m Ashwin Benke, a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I'm currently working at **Combat Solutions AI**, building real-world AI chatbots and multi-agent systems.
 
 🧠 I’m passionate about developing smart tools, solving real-world problems with AI/ML, and exploring the intersection of **data science**, **deep learning**, and **web development**.
 
