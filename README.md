@@ -122,7 +122,7 @@
 
 ## 📬 Connect with Me
 
-📫 **Email:** [ashwinbenke123@gmail.com](mailto:ashwinbenke123@gmail.com)  
+📫 **Email:** [ashwinbenke22@gmail.com](mailto:ashwinbenke22@gmail.com)  
 🔗 **Portfolio:** [ashwinbenke.vercel.app](https://ashwinbenke.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/ashwin-benke-4015b1189](https://www.linkedin.com/in/ashwin-benke-4015b1189)  
 🐙 **GitHub:** [github.com/Ashwinssj](https://github.com/Ashwinssj)
