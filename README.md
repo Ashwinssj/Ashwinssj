@@ -13,59 +13,101 @@
 
 ## 🚀 About Me
 
-🎓 I’m Ashwin Benke, a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I'm currently working at **Combat Solutions AI**, building real-world AI chatbots and multi-agent systems.
+🎓 I’m Ashwin Benke, a final-year B.Tech student specializing in **Artificial Intelligence and Data Science**. I'm currently working at **Combat Solutions AI (BharatKa AI Pvt. Ltd.)**, building real-world AI chatbots, voice agents, and multi-agent systems.
 
-🧠 I’m passionate about developing smart tools, solving real-world problems with AI/ML, and exploring the intersection of **data science**, **deep learning**, and **web development**.
+🧠 Passionate about developing smart tools and solving real-world problems at the intersection of **AI/ML**, **Web Dev**, and **Human-AI Interaction**.
 
-🌐 I also love mentoring, public speaking, and sharing my work with the tech community!
+🌐 I love mentoring, building with open-source, and sharing my journey with the tech community!
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)  
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
-*(Used for building context-aware LLM pipelines and agentic workflows)*
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64)
+
+**GenAI & AI Tools:**  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-black?style=flat)
+![Whisper](https://img.shields.io/badge/-Whisper-blue?style=flat)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio)
+![D-ID](https://img.shields.io/badge/-D--ID-darkgreen?style=flat)
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface)  
-*(For fine-tuning and deploying NLP & vision models using Transformers)*
-
-**Certifications:**  
-📜 **Microsoft Certified: Azure AI Engineer Associate**  
-*(MCP | Skilled in designing, implementing, and monitoring AI solutions on Microsoft Azure)*
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ---
 
 ## 💡 Featured Projects
 
-🔸 [**AI Virtual Mouse**](https://github.com/Ashwinssj/AI-Virtual-Mouse) – Touchless computer control using hand gesture recognition via OpenCV and MediaPipe.
+### 🧠 AI & ML Projects
 
-🔸 [**SellerAI**](https://github.com/Ashwinssj/SellerAI) – LLM-powered e-commerce assistant that helps sellers write listings and improve product visibility on platforms like Amazon and Shopify.
+- **[SellerAI](https://github.com/Ashwinssj/SellerAI)**  
+  LLM-powered tool for e-commerce sellers. Helps generate SEO-optimized product titles and descriptions.  
+  _LangChain · FastAPI · OpenAI · Chatbot · E-Commerce_
 
-🔸 [**Stable Diffusion Web App**](https://github.com/Ashwinssj/StableDiffusionGradio) – Text-to-image generator using Hugging Face Stable Diffusion and Gradio interface.
+- **[AI Virtual Mouse](https://github.com/Ashwinssj/AI-Virtual-Mouse)**  
+  Use hand gestures to control your computer.  
+  _Python · OpenCV · MediaPipe_
 
-🔸 [**AI Image Editor**](https://github.com/Ashwinssj/ScadePro) – A creative tool using Fooocus, Invoke AI, and other GenAI models for face swapping, super-resolution, and inpainting.
+- **[AI Image Editor (ScadePro)](https://github.com/Ashwinssj/ScadePro)**  
+  Perform face swaps, background removal, and inpainting using GenAI models.  
+  _Fooocus · InvokeAI · Stable Diffusion_
 
-🔸 [**Car Price Prediction**](https://github.com/Ashwinssj/ML-CarPricePrediction) – A machine learning regression model to predict used car prices.
+- **[Stable Diffusion Web App](https://github.com/Ashwinssj/StableDiffusionGradio)**  
+  Text-to-image generation web interface using Hugging Face.  
+  _Gradio · Diffusers · Hugging Face_
 
-🔸 [**Academy Management App**](https://github.com/Ashwinssj/PSA-ManagementApp) – Android + Laravel app built for a sports academy to manage users, staff, and attendance.
+- **[Car Price Prediction](https://github.com/Ashwinssj/ML-CarPricePrediction)**  
+  ML-based regression model to predict the price of used cars.  
+  _scikit-learn · Pandas · Regression_
+
+- **Hegen AI Avatar**  
+  Create talking AI avatars with real-time voice and lip-sync.  
+  _LangChain · ElevenLabs · D-ID · React_
+
+---
+
+### 📞 Voice AI & Conversational Projects
+
+- **AI Phone Call Agent**  
+  Real-time autonomous phone call agent that talks, listens, and completes tasks.  
+  _Whisper · ElevenLabs · Twilio · LangChain_
+
+- **Expert Consultation Chatbot**  
+  AI chatbot for scheduling and connecting with industry experts via multiple platforms.  
+  _Zoho Recruit · WhatsApp · Email · Voicebot · NLP_
+
+- **AI Voice Agents for Production** *(by DeepLearning.ai)*  
+  A voice assistant that can operate in real-world production environments.  
+  _Tools Agent · LangChain · Twilio · FastAPI_
+
+---
+
+### 🌐 Web & App Projects
+
+- **[Academy Management App](https://github.com/Ashwinssj/PSA-ManagementApp)**  
+  Full-stack sports academy management system.  
+  _Android (Java) · Laravel · MySQL_
+
+- **[FramePack](https://github.com/Ashwinssj/FramePack-main)** *(Beta)*  
+  Frame layout/image processing tool (in development).  
+  _Image Design · UI Tools_
 
 ---
 
@@ -81,8 +123,8 @@
 ## 📬 Connect with Me
 
 📫 **Email:** [ashwinbenke123@gmail.com](mailto:ashwinbenke123@gmail.com)  
-🔗 **Portfolio:** [ashwinbenke.vercel.app](https://ashwinbenke.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/ashwin-benke-4015b1189](https://www.linkedin.com/in/ashwin-benke-4015b1189/)  
+🔗 **Portfolio:** [ashwinbenke.vercel.app](https://ashwinbenke.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/ashwin-benke-4015b1189](https://www.linkedin.com/in/ashwin-benke-4015b1189)  
 🐙 **GitHub:** [github.com/Ashwinssj](https://github.com/Ashwinssj)
 
 ---
